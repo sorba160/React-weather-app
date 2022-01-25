@@ -5,6 +5,7 @@ const Navbar = () => {
     return <div className='Navbar'>
 
         <ul className='Navitem'>
+            <li><Link to="/home" className='navtype'><img src='https://miro.medium.com/max/512/1*hiZL1BonvYRL5hlzxops3A.png' alt='logo' height='10%'/></Link></li>
             <li><Link to="/home" className='navtype'>HOME</Link></li>
             <li><Link to="/about" className='navtype'>ABOUT</Link></li>
             <li><Link to="/contact" className='navtype'>CONTACT</Link></li>

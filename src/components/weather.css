@@ -1,6 +1,6 @@
 .weather {
   margin-top: 20px;
-  border: 3px dashed grey;
+  border: 3px dashed rgb(31, 31, 31);
   border-radius: 20px;
   padding-bottom: 30px;
   width: max-content;

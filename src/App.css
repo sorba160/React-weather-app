@@ -1,8 +1,8 @@
 .App {
   text-align: center;
-  background-image: url(https://miro.medium.com/max/2560/1*GsImz-edoeuqCMfKxDus0w.jpeg);
-  /* background-image: linear-gradient(white, rgb(156, 156, 248)); */
-  height: 100%;
+  
+  /* background-image: linear-gradient(white, rgb(156, 156, 248));background-image: url(https://miro.medium.com/max/2560/1*GsImz-edoeuqCMfKxDus0w.jpeg); */
+  
 }
 
 
