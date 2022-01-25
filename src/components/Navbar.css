@@ -1,0 +1,17 @@
+.Navitem{
+   list-style-type: none;
+   display: flex;
+   flex-direction: row;
+   justify-content: space-evenly;
+   padding: 20px;
+}
+.navtype{
+   
+   text-decoration: none;
+   color: white;
+}
+.Navbar{
+    background-color: black;
+    margin-top: -1.5%;
+    height: 20%;
+}
