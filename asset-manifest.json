@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Ultra-weather-app/static/css/main.4b2dddbe.chunk.css",
+    "main.js": "/Ultra-weather-app/static/js/main.675a07cd.chunk.js",
+    "main.js.map": "/Ultra-weather-app/static/js/main.675a07cd.chunk.js.map",
+    "runtime-main.js": "/Ultra-weather-app/static/js/runtime-main.2e9fa02d.js",
+    "runtime-main.js.map": "/Ultra-weather-app/static/js/runtime-main.2e9fa02d.js.map",
+    "static/js/2.8462d6c3.chunk.js": "/Ultra-weather-app/static/js/2.8462d6c3.chunk.js",
+    "static/js/2.8462d6c3.chunk.js.map": "/Ultra-weather-app/static/js/2.8462d6c3.chunk.js.map",
+    "index.html": "/Ultra-weather-app/index.html",
+    "precache-manifest.a090a278e0d94a5f420da3218be69997.js": "/Ultra-weather-app/precache-manifest.a090a278e0d94a5f420da3218be69997.js",
+    "service-worker.js": "/Ultra-weather-app/service-worker.js",
+    "static/css/main.4b2dddbe.chunk.css.map": "/Ultra-weather-app/static/css/main.4b2dddbe.chunk.css.map",
+    "static/js/2.8462d6c3.chunk.js.LICENSE.txt": "/Ultra-weather-app/static/js/2.8462d6c3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e9fa02d.js",
+    "static/js/2.8462d6c3.chunk.js",
+    "static/css/main.4b2dddbe.chunk.css",
+    "static/js/main.675a07cd.chunk.js"
+  ]
+}
