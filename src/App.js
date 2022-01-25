@@ -14,6 +14,7 @@ function App() {
             <Navbar />
             <Routes className="Appcomponents">
                 <Route path="/" element={<Weather />} />
+                <Route path="/React-weather-app" element={<Weather />} />
                 <Route path="/home" element={<Weather />} />
                 <Route path="/about" element={<About />} />
                 <Route path="/contact" element={<Contact />} />
