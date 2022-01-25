@@ -11,16 +11,16 @@ import Weather from './components/Weather';
 function App() {
     return (
         <div className="App">
-          <Navbar/>
+            <Navbar />
             <Routes className="Appcomponents">
-                
-                    <Route path="/home" element={<Weather />} /> 
-                    <Route path="/about" element={<About />} />
-                    <Route path="/contact" element={<Contact />} />
-                    <Route path="/service" element={<Service />} />
-                
+                <Route path="/" element={<Weather />} />
+                <Route path="/home" element={<Weather />} />
+                <Route path="/about" element={<About />} />
+                <Route path="/contact" element={<Contact />} />
+                <Route path="/service" element={<Service />} />
+
             </Routes>
         </div>
     )
-} 
+}
 export default App
